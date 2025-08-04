@@ -1,0 +1,1 @@
+import React from 'react'; const App = () => <div>AuraQuant Dashboard Loaded</div>; export default App;
