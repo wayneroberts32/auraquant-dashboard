@@ -1,0 +1,1 @@
+// Full script.js with functional alert and panel logic
