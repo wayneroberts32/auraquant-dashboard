@@ -1,0 +1,1 @@
+// Telegram + X Alert Hook logic
